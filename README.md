@@ -4,7 +4,8 @@
   <br/>
   currently based in Berlin.
   <br />
-  <a href="https://www.linkedin.com/in/leandrodrigo/" target="_blank">LinkedIn</a> ||
+  <br />
+  || <a href="https://www.linkedin.com/in/leandrodrigo/" target="_blank">LinkedIn</a> ||
   <a href="https://editor.p5js.org/learodrigo/sketches" target="_blank">P5js</a> ||
   <a href="http://instagram.com/lea.rodrigo.sketch" target="_blank">Instagram</a> ||
   <a href="https://codepen.io/learodrigo" target="_blank">Codepen</a> ||
@@ -14,8 +15,6 @@
 </p>
 
 <!--
-**learodrigo/learodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
