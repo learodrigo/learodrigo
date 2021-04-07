@@ -1,28 +1,21 @@
-<h3 align="center">Hi there, I'm Leandro</h3>
+<h3 align="center">hi there, i'm leandro</h3>
 <p align="center">
-  an Argentinean Visual Communication Designer and Web Developer
+  someone who studied design but never worked as a designer,
+  <br />
+  or another designer who speaks javascript at work,
+  <br />
+  or a self-taught web developer,
+  <br />
+  or yeah, you got the idea
   <br/>
-  currently based in Berlin.
+  currently based in berlin
   <br />
   <br />
-  || <a href="https://www.linkedin.com/in/leandrodrigo/" target="_blank">LinkedIn</a> ||
-  <a href="https://editor.p5js.org/learodrigo/sketches" target="_blank">P5js</a> ||
-  <a href="http://instagram.com/lea.rodrigo.sketch" target="_blank">Instagram</a> ||
-  <a href="https://codepen.io/learodrigo" target="_blank">Codepen</a> ||
+  || <a href="https://www.linkedin.com/in/leandrodrigo/" target="_blank">linkedin</a> ||
+  <a href="https://editor.p5js.org/learodrigo/sketches" target="_blank">p5js</a> ||
+  <a href="http://instagram.com/lea.rodrigo.sketch" target="_blank">instagram</a> ||
+  <a href="https://codepen.io/learodrigo" target="_blank">codepen</a> ||
   <br />
   <br />
   <img src="https://raw.githubusercontent.com/learodrigo/learodrigo/main/gif.gif" alt="gif" />
 </p>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
