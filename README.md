@@ -8,7 +8,6 @@
   <br />
   || <a href="https://www.linkedin.com/in/leandrodrigo" target="_blank">linkedin</a> ||
   <a href="https://editor.p5js.org/learodrigo/sketches" target="_blank">p5js</a> ||
-  <a href="https://www.instagram.com/an.unpredictable.prediction" target="_blank">instagram</a> ||
   <a href="https://codepen.io/learodrigo" target="_blank">codepen</a> ||
   <br />
   <br />
