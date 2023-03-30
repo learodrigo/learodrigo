@@ -1,4 +1,4 @@
-<h3 align="center">hi there, i'm leandro</h3>
+<h3 align="center">hi there, i'm <del>leonardo</del> leandro</h3>
 <p align="center">
   a self-taught software developer,<br />
   or another designer who speaks with computers at work,<br />
